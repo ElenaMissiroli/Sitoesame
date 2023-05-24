@@ -51,6 +51,8 @@ nav ul li {
 
 .card-title {
     font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.025em;
 }
 
 .card-img-top {
@@ -73,7 +75,7 @@ nav ul li {
     padding-top: 0%;
     font-family: 'EB Garamond', serif;
     font-size: large;
-    line-height: 2;
+    line-height: 2em;
     font-weight: 500;
 }
 
@@ -114,8 +116,14 @@ h2 h3 h4 h5 {
 
 #Title {
     color: papayawhip;
+    letter-spacing: 0.05em;
 }
 
 .topic {
     color: papayawhip;
 }
+
+b {
+    letter-spacing: 0.025em;
+}
+
